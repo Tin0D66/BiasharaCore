@@ -1,16 +1,16 @@
 # BiasharaCore
 A business Applications Core API developed by a Community of Tanzanian Programmers. It provides all basic interfaces to business information systems for Consumption by Individual Endpoint  systems.  This project is own entirely by the Programmers Community and Every member is free to brand and supply it as they please.  Individual Programmers can create end-point systems for their own commercial use.
 
-Prerequisite
+# Prerequisite
   nodejs
   npm
   mongodb
 
-Implementation
+# Implementation
 Open terminal and navigate to directory where you want a clone of this project to stay and run npm init.
 This will install all required dependencies. Then you can start the server by running npm start
 
-Dependencies
+# Dependencies
 bcrypt :- hash your plain password and store hashed password in database
 
 body-parser :- Parse incoming request bodies in a middleware before your handlers, available under the req.bodyproperty
