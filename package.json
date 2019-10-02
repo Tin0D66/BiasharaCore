@@ -1,0 +1,28 @@
+{
+  "name": "biasharacore",
+  "version": "1.0.0",
+  "description": "A business Applications Core API developed by a Community of Tanzanian Programmers. It provides all basic interfaces to business information systems for Consumption by Individual Endpoint systems. This project is own entirely by the Programmers Community and Every member is free to brand and supply it as they please. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tin0D66/BiasharaCore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tin0D66/BiasharaCore/issues"
+  },
+  "homepage": "https://github.com/Tin0D66/BiasharaCore#readme",
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2",
+    "mongoose": "^5.7.3",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.3"
+  }
+}
